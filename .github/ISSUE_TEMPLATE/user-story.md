@@ -7,15 +7,6 @@ assignees: Jaypee07
 
 ---
 
----
-name: user story1
-about: this template is for creating user stories
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
